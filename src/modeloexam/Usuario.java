@@ -26,23 +26,14 @@ public class Usuario implements Serializable {
         return nombre;
     }
 
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
 
     public String getPw() {
         return pw;
     }
 
-    public void setPw(String pw) {
-        this.pw = pw;
-    }
 
     public String getRoleplay() {
         return roleplay;
     }
 
-    public void setRoleplay(String roleplay) {
-        this.roleplay = roleplay;
-    }
 }

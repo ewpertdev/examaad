@@ -78,7 +78,7 @@ public class Main {
 
     public static void menuAdministrador(Usuario admin) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Bienvenido" + admin.getNombre() + " eres administrador");
+        System.out.println("Bienvenido " + admin.getNombre() + "," + " eres un administrador.");
         int opcion;
         do {
             opcion = sc.nextInt();
@@ -101,6 +101,7 @@ public class Main {
             }
 
         } while (opcion != 0);
+        sc.close();
 
     }
 

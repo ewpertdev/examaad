@@ -1,4 +1,4 @@
-Samuel: 1234;administrador
-Beatiz.123:odministador
-Leticia: 1 2,usuario
+Samuel:1234;administrador
+Beatriz:123:administador
+Leticia:12,usuario
 Pepe:\23abdilector
