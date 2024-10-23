@@ -1,0 +1,4 @@
+Samuel: 1234;administrador
+Beatiz.123:odministador
+Leticia: 1 2,usuario
+Pepe:\23abdilector
