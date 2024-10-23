@@ -1,10 +1,7 @@
 package modeloexam;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
-
+import java.util.*;
 /* Java give code
 
 1. Se tiene un fichero de las siguientes característicos:
@@ -105,7 +102,6 @@ public class Main {
 
         } while (opcion != 0);
 
-
     }
 
     public static void bienvenidoLector(Usuario lector) {
@@ -135,7 +131,6 @@ public class Main {
             System.out.println("Acceso denegado. Usuario o contraseña incorrectos.");
         }
         sc.close();
-
 
     }
 }
